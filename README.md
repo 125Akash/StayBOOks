@@ -28,8 +28,8 @@ StayBOOK Form is a simple web application that allows users to fill in details r
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/staybook-form.git
-   cd staybook-form
+   git clone https://github.com/125Akash/StayBooks.git
+   cd StayBooks
    ```
 
 2. Install dependencies:
@@ -74,6 +74,4 @@ StayBOOK Form is a simple web application that allows users to fill in details r
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
