@@ -44,24 +44,7 @@ StayBOOK Form is a simple web application that allows users to fill in details r
 
 2. Update the Firebase configuration in the `src/firebase.js` file.
 
-   ```javascript
-   // src/firebase.js
-
-   const firebaseConfig = {
-     apiKey: "your-api-key",
-     authDomain: "your-auth-domain",
-     databaseURL: "your-database-url",
-     projectId: "your-project-id",
-     storageBucket: "your-storage-bucket",
-     messagingSenderId: "your-messaging-sender-id",
-     appId: "your-app-id",
-   };
-   ```
-
-3. Run the application:
-
-   ```bash
-   npm start
+ We Need a Realtime Firebase Url From Firebase Project
    ```
 
 4. Open your web browser and visit `http://localhost:3000` to access the StayBOOK Form.
